@@ -1,0 +1,3 @@
+baseURL = 'https://example.org/'
+languageCode = 'uk-uaø'
+title = 'My New Hugo Site'
