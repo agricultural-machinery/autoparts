@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'uk-ua'
+title = 'Автозапчастини до тракторів МТЗ'
+theme = 'gallery'
